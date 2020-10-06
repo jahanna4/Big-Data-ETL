@@ -1,4 +1,4 @@
-# Big Data Challenge
+# Amazon Reviews Big Data Challenge
 
 This project analyzed Amazon reviews by product category.
 
