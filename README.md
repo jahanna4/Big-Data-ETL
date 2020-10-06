@@ -1,4 +1,4 @@
-# Amazon Reviews Big Data Challenge
+# Amazon Reviews ETL
 
 This project analyzed Amazon reviews by product category.
 
